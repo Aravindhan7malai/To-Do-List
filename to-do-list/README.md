@@ -9,9 +9,7 @@ A simple React-based Todo application that allows users to add, update, and dele
 - Delete tasks
 - Responsive design
 
-Link: https://verbose-carnival-v6pv79w76w5736qv-3000.app.github.dev/
 
-It will ask you to login***
 
 Usage
 
